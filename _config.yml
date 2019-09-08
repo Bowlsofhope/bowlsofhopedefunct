@@ -1,0 +1,9 @@
+title: LASA Bowls of Hope
+author: Sam Christian 
+email: Bowlsofhope@gmail.com
+description: The website for LASA Bowls of Hope
+#paginate_path: /Blog
+# Build settings
+markdown: kramdown
+theme: Alembic
+future: true
