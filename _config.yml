@@ -5,5 +5,5 @@ description: The website for LASA Bowls of Hope
 #paginate_path: /Blog
 # Build settings
 markdown: kramdown
-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 future: true
