@@ -7,3 +7,5 @@ description: The website for LASA Bowls of Hope
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 future: true
+plugins:
+- jekyll-include-cache
