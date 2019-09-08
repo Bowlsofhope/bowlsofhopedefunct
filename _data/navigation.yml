@@ -1,6 +1,10 @@
 - name: Home
   link: /
-- name: About
+- name: Purpose
   link: /about.html
-- name: Blog
-  link: /blog.html
+- name: Announcements
+  link: /Announcements.html
+- name: Club Officers
+  link: /cluboffice.html
+- name: Upcoming Activities
+  link: /activities.html
