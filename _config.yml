@@ -5,7 +5,7 @@ description: The website for LASA Bowls of Hope
 #paginate_path: /Blog
 # Build settings
 markdown: kramdown
-theme: remote_theme: "mmistakes/minimal-mistakes@4.1
+theme: remote_theme: "mmistakes/minimal-mistakes@4.1"
 future: true
 plugins:
   - jekyll-include-cache
