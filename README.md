@@ -1,2 +1,2 @@
 # bowlsofhope.github.io
-repository for website for LASA club bowls of hope
+The website of LASA Bowls of Hope
